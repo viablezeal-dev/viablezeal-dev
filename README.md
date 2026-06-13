@@ -6,45 +6,20 @@ IT professional with 7+ years of experience spanning telecommunications, banking
 
 ### ⚙️ Technical Focus
 
-**Infrastructure & Support**
+**Infrastructure & Support:**
+Windows, Active Directory, Microsoft 365, DNS, DHCP, VPN, VMware
 
-* Windows
-* Active Directory
-* Microsoft 365
-* DNS
-* DHCP
-* VPN
-* VMware
+**Security & Administration:**
+Identity Management, Access Controls, Authentication Systems, Endpoint Support, Monitoring
 
-**Security & Administration**
+**Automation & Data:**
+Python, PowerShell, Excel Modeling, API Integration, Data Analysis
 
-* Identity Management
-* Access Controls
-* Authentication Systems
-* Endpoint Support
-* Monitoring
+**Networking:**
+TCP/IP, Switching, Routing, VoIP, Network Monitoring
 
-**Automation & Data**
-
-* Python
-* PowerShell
-* Excel Modeling
-* API Integration
-* Data Analysis
-
-**Networking**
-
-* TCP/IP
-* Switching
-* Routing
-* VoIP
-* Network Monitoring
-
-**Currently Learning**
-
-* Information Security
-* Process Automation
-* Cloud Technologies
+**Currently Learning:**
+Information Security, Process Automation, Cloud Technologies
 
 ---
 
